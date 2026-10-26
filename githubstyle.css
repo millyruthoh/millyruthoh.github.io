@@ -1,6 +1,4 @@
- body{
-            background-color: black;
-        }
+ body{background-color: black; }
 #heading{
         width: 300pvw;
         height:100pvh;
@@ -13,7 +11,4 @@
         background-color: black;
         }
         
-        h1{
-            font-size: 3rem;
-
-        }
+h1{font-size: 3rem;}
