@@ -1,9 +1,7 @@
  body
  {background-color: black;
-        margin: 0;
-        height: 100vh;
-        position: relative;
  }
+
 div{
         width: 300px;
         height: 100px;
