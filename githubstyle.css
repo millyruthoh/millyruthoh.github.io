@@ -5,7 +5,7 @@ div{
         position: absolute;
         top: 10%;
         left:50%;
-        transform:translate(-50%,-50%);
+        transform:translate(-10%,-50%);
         font-size: 1rem;
         color: rgb(47, 253, 252);
         background-color: black;
@@ -19,5 +19,5 @@ h1{font-size: 3rem;}
         position: absolute;
         top: 60%;
         left: 50%;
-        transform: translate(-50%,-50%);
+        transform: translate(-60%,-50%);
 }
