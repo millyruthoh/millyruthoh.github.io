@@ -3,16 +3,18 @@
  }
 /*test*/
 div{
-        width: 300px;
+        width: 600px;
         height: 100px;
         position: absolute;
-        top: 20%;
+        top: 25%;
         left:50%;
         transform: translate(-50%,-50%);
 
         font-size: 1rem;
         color: rgb(47, 253, 252);
         background-color: black;
+
+        text-align: center;
         }
 
 .bebas-neue-regular {
@@ -23,7 +25,7 @@ div{
 
         
 h1{
- font-size: 3rem;
+ font-size: 4rem;
  margin: 0;
 }
 
